@@ -1,2 +1,2 @@
-# Ebay_Cars_Analysis
-DataQuest Python guided project
+# Ebay Cars Analysis
+DataQuest guided project using Python
